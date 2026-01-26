@@ -1,8 +1,8 @@
 1:"$Sreact.fragment"
-2:I[89836,["/_next/static/chunks/1e086dccfb274931.js"],"ViewportBoundary"]
-4:I[89836,["/_next/static/chunks/1e086dccfb274931.js"],"MetadataBoundary"]
+2:I[89836,["/portfolio/_next/_next/static/chunks/1e086dccfb274931.js"],"ViewportBoundary"]
+4:I[89836,["/portfolio/_next/_next/static/chunks/1e086dccfb274931.js"],"MetadataBoundary"]
 5:"$Sreact.suspense"
-7:I[76629,["/_next/static/chunks/1e086dccfb274931.js"],"IconMark"]
-0:{"buildId":"hgAyXuTcoOzNxd3Fkz9Sv","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"loading":null,"isPartial":false}
+7:I[76629,["/portfolio/_next/_next/static/chunks/1e086dccfb274931.js"],"IconMark"]
+0:{"buildId":"EU2voOzmEOrjefKArbK5B","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"loading":null,"isPartial":false}
 3:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#020304"}]]
 6:[["$","title","0",{"children":"Pamod Madubashana | Full-Stack Developer"}],["$","meta","1",{"name":"description","content":"Full-Stack Developer specializing in Performance, UX, Reliability, and Clean Architecture. Building desktop applications with Rust, Tauri, and modern web technologies."}],["$","meta","2",{"name":"author","content":"Pamod Madubashana"}],["$","meta","3",{"name":"generator","content":"v0.app"}],["$","meta","4",{"name":"keywords","content":"Full-Stack Developer,Rust,Tauri,React,TypeScript,Portfolio"}],["$","link","5",{"rel":"icon","href":"/icon-light-32x32.png","media":"(prefers-color-scheme: light)"}],["$","link","6",{"rel":"icon","href":"/icon-dark-32x32.png","media":"(prefers-color-scheme: dark)"}],["$","link","7",{"rel":"icon","href":"/icon.svg","type":"image/svg+xml"}],["$","link","8",{"rel":"apple-touch-icon","href":"/apple-icon.png"}],["$","$L7","9",{}]]
